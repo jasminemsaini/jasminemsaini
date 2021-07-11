@@ -1,6 +1,10 @@
-### Hi there 👋
+- I'm passionate about learning and solving problems
+- Languages: Python, Java, JavaScript, HTML/ CSS, SQL, and C
+
+
 
 <!--
+### Hi there 👋
 **jasminemsaini/jasminemsaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
