@@ -1,9 +1,12 @@
 - I'm passionate about learning and solving problems
 - Languages: Python, Java, JavaScript, HTML/ CSS, SQL, and C
+<br>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=jasminemsaini&hide=prs,issues&count_private=true&theme=graywhite&show_icons=true" />
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminemsaini)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 **jasminemsaini/jasminemsaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
