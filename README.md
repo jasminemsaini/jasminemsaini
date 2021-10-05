@@ -1,9 +1,10 @@
-#### Hi, I'm Jasmine 
-- 🌱 I'm passionate about learning and solving problems
+#### Hi I'm Jasmine, 
+- I'm passionate about learning and solving problems
 - </> Languages: Python, Java, JavaScript, HTML/CSS, SQL, and C
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=jasminemsaini&hide=prs,issues&count_private=true&theme=graywhite&show_icons=false" />
+
 
 <!--
 ### Hi there 👋
