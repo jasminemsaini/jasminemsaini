@@ -1,5 +1,5 @@
 #### Hi I'm Jasmine, 
-- I'm passionate about learning and solving problems
+- I'm passionate about learning and solving problems ☺️
 - </> Languages: Python, Java, JavaScript, HTML/CSS, SQL, and C
 
 <br>
